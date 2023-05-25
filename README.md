@@ -3,7 +3,7 @@ canlı okuma yapılmayacaksa path değişkenine resimlerden biri verilir
 
 program çalıştığında kaç soru isteniyorsa tam girilmeli 
 ardından cevap anahtarı girilir
-canlı okuma durumu belirlenir görselden okunacaksa hayır cevabı girilir
+canlı okuma durumu belirlenir görselden okunmayacaksa hayır cevabı girilir
 canlı okuma yapılacaksa hangi kamera ile görüntü alınacağı girilmeli 1, 0 gibi
 
 
