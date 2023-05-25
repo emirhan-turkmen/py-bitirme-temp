@@ -17,10 +17,10 @@ dikdörtgenden küçük olmalı
 
 
 
--- EKSİK VE ÜSTÜNDE ÇALIŞILANLAR --
+-- EKSİK VE ÜSTÜNDE ÇALIŞILANLAR --  
 -sonuçların yazılı olarak kaydedilmesi  
 -5 soru üstünde görsel işaretleme çalışmıyor sonuçlar doğru hesaplanıyor ancak görsele  
 dökmede sorun var buna alternatif olarak görsel işaretleme modülünü iptal edip görselin üstüne  
-    optikten alınan cevaplar ve cevap anahtarı eklemeyi düşünüyorum
+optikten alınan cevaplar ve cevap anahtarı eklemeyi düşünüyorum
 
 
